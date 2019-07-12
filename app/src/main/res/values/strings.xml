@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">API Katalog Film sub3</string>
+
+    <string name="change_language_settings">Ubah pengaturan bahasa</string>
+    <string name="Movies"> Film </string>
+    <string name="TvShows"> Acara TV </string>
+    <string name="judul_film" translatable="false">Judul Film</string>
+    <string name="_7_0" translatable="false">7.0</string>
+    <string name="poster">poster</string>
+    <string name="bintang">bintang</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="detailfilm">Detail</string>
+    <string name="loding">Memuat.....</string>
+
+</resources>
